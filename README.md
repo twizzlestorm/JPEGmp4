@@ -6,4 +6,4 @@ rough around the edges and not optimized
 
 requires FFmpeg (included in download)
 
-[https://github.com/twizzlestorm/JPEGmp4/releases/tag/v1](dl)
+[dl](https://github.com/twizzlestorm/JPEGmp4/releases/tag/v1)
